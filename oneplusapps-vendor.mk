@@ -13,7 +13,7 @@ PRODUCT_PACKAGES += \
     OnePlusClock \
     OnePlusDialer \
     OnePlusFileManager \
-    OnePlusMessages \
+    OnePlusMessage \
     OnePlusRecorder \
     OnePlusWeather \
     OnePlusWidget
